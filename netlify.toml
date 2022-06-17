@@ -1,0 +1,18 @@
+[[redirects]]
+    from = "/*"
+    to = "https://seok.tk/:splat"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/index.html"
+    to = "https://seok.tk/index.html"
+    status = 301
+    force = true
+
+[[redirects]]
+
+    from = "https://photpolio-seok.netlfify.app/*"
+    to = "https://seok.tk/:splat"
+    status = 301
+    force = true
